@@ -7,3 +7,9 @@ Cipher now uses 5 bit (32 possible lists) to generate a code with a different en
 
 # Cipher
 Cipher is a text encrypter and decrypter
+
+# Download instructions :
+- Click on the green button (<>code) 
+- Download the zip file
+- Extract it and you should be good to go
+
