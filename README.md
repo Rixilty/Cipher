@@ -1,3 +1,7 @@
+# What's wes' mod (Improved)?
+- Cipher now supports writing words using special code to prevent flagged words from being detected.
+- Improved so typing with wes' mod is faster and more efficient.
+
 # What's new in v1.2?
 - Cipher now supports uppercase letters as well.
 - Lots of bug fixes.
